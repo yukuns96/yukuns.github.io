@@ -1,19 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my personal webpage!
 
-You can use the [editor on GitHub](https://github.com/yukuns96/yukuns/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently pursuing my Master's degree in Aerospace Engineering. My concentration is theoretical analysis of flow physics using computational fluid dynamics (CFD). My current research includes the following two projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Flapping Foil Propulsion
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### COVID-19
 
 - Bulleted
 - List
