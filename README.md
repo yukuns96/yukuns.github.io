@@ -9,7 +9,7 @@ University of Michigan, Ann Arbor
 
 # Research
 ## Flapping Foil Propulsion
-We numerically study the flapping (pitching and heaving) motion of a wing. We develop OpenFOAM codes to perform RANS, LES, and DNS simulations of flapping foils using dynamic mesh method. Later we plan to implement immersed boundary method (IBM) and overset meshes to improve the robustness of simulations with large flapping motions.
+We numerically study the flapping (pitching and heaving) motion of a wing. We develop OpenFOAM codes to perform RANS, LES, and DNS simulations of flapping foils using dynamic mesh method. We also develop novel boundary conditions that best fit such cases. We are planning to implement immersed boundary method (IBM) and overset meshes to improve the robustness of simulations with large flapping motions.
 
 1. Numbered
 2. List
