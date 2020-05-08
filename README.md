@@ -4,8 +4,8 @@ I am currently pursuing my Master's degree in Aerospace Engineering. My concentr
 
 # Affilation
 ## University of Michigan, Ann Arbor
-- Aerospace Engineering
-- Naval Architecture and Marine Engineering
+- [Aerospace Engineering](https://aero.engin.umich.edu)
+- [Naval Architecture and Marine Engineering](https://name.engin.umich.edu)
 
 # Research
 ## Flapping Foil Propulsion
