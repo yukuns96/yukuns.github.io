@@ -3,7 +3,7 @@
 I am currently pursuing my Master's degree in Aerospace Engineering. My concentration is theoretical analysis of flow physics using computational fluid dynamics (CFD). My current research includes the following two projects.
 
 # Affilation
-## University of Michigan, Ann Arbor
+University of Michigan, Ann Arbor
 - [Aerospace Engineering](https://aero.engin.umich.edu)
 - [Naval Architecture and Marine Engineering](https://name.engin.umich.edu)
 
