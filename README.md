@@ -7,8 +7,8 @@ I am currently pursuing my Master's degree in Aerospace Engineering. My concentr
 - Aerospace Engineering
 - Naval Architecture and Marine Engineering
 
-
-### Flapping Foil Propulsion
+# Research
+## Flapping Foil Propulsion
 
 
 - Bulleted
