@@ -2,9 +2,13 @@
 
 I am currently pursuing my Master's degree in Aerospace Engineering. My concentration is theoretical analysis of flow physics using computational fluid dynamics (CFD). My current research includes the following two projects.
 
+## Affilation
+# University of Michigan, Ann Arbor
+- Aerospace Engineering
+- Naval Architecture and Marine Engineering
+
 ### Flapping Foil Propulsion
 
-### COVID-19
 
 - Bulleted
 - List
@@ -14,7 +18,7 @@ I am currently pursuing my Master's degree in Aerospace Engineering. My concentr
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://aero.engin.umich.edu) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -26,3 +30,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
+
