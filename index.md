@@ -4,6 +4,21 @@
 
 I am currently pursuing my Master's degree in Aerospace Engineering. My concentration is theoretical analysis of flow physics using computational fluid dynamics (CFD). My current research includes the following two projects.
 
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Yukun Sun</h1>
+      <p><b>B.S. Aerospace Engineering</b></p>
+      <p><b>B.S. Mechanical Engineering</b></p>
+      <p><b>M.S.E. Aerospace Engineering</b></p>
+      <p><b>University of Michigan</b></p>
+    </td>
+    <td width="25%">
+      <img src="/shed.jpg" width="100%">      % insert image path
+    </td>
+  </tr>
+</table>
+
 # Affilation
 University of Michigan, Ann Arbor
 - [Aerospace Engineering](https://aero.engin.umich.edu)
