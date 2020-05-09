@@ -1,4 +1,4 @@
-![img](https://github.com/yukuns96/yukuns96.github.io/blob/master/shedd1.jpg)
+![img](https://github.com/yukuns96/yukuns96.github.io/blob/master/shedd1.png)
 
 ## Welcome to my personal webpage!
 
