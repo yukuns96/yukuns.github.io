@@ -6,15 +6,15 @@ I am currently pursuing my Master's degree in Aerospace Engineering. My concentr
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <h1>Yukun Sun</h1>
       <p><b>B.S. Aerospace Engineering</b></p>
       <p><b>B.S. Mechanical Engineering</b></p>
       <p><b>M.S.E. Aerospace Engineering</b></p>
       <p><b>University of Michigan</b></p>
     </td>
-    <td width="25%">
-      <img src="/shed.jpg" width="100%">      % insert image path
+    <td width="40%">
+      <img src="/shed.jpg" width="100%"> 
     </td>
   </tr>
 </table>
