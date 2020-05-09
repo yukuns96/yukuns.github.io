@@ -1,4 +1,4 @@
-<img src = "https://github.com/yukuns96/yukuns96.github.io/blob/master/shed.jpg" width=100>
+<img src = "https://github.com/yukuns96/yukuns96.github.io/blob/master/shed1.jpg">
 
 ## Welcome to my personal webpage!
 
