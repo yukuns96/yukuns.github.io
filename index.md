@@ -1,6 +1,6 @@
 ## Welcome to my personal webpage!
 
-I am currently pursuing my Master's degree in Aerospace Engineering. My concentration is theoretical analysis of flow physics using computational fluid dynamics (CFD). My current research includes the following two projects.
+I am currently pursuing my Master's degree in Aerospace Engineering. I am a future Ph.D. student in Naval Architecture and Marine Engineering. My concentration is theoretical analysis of flow physics using computational fluid dynamics (CFD). My current research includes the following two projects.
 
 <table border="0">
   <tr>
