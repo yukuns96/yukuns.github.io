@@ -1,15 +1,13 @@
-## Welcome to my personal webpage!
-
-I am currently pursuing my Master's degree in Aerospace Engineering. I am a future Ph.D. student in Naval Architecture and Marine Engineering. My concentration is theoretical analysis of flow physics using computational fluid dynamics (CFD). My current research includes the following two projects.
+## YUKUN SUN
 
 <table border="0">
   <tr>
     <td width="60%">
       <h1>Yukun Sun</h1>
-      <p><b>B.S. Aerospace Engineering</b></p>
-      <p><b>B.S. Mechanical Engineering</b></p>
-      <p><b>M.S.E. Aerospace Engineering</b></p>
-      <p><b>University of Michigan</b></p>
+      <p><b>Ph.D. Pre-Candidate, Naval Architecture and Marine Engineering, University of Michigan
+      <p><b>M.S. Aerospace Engineering</b></p>, University of Michigan
+      <p><b>B.S. Aerospace Engineering</b></p>, University of California, Irvine
+      <p><b>B.S. Mechanical Engineering</b></p>, University of California, Irvine
     </td>
     <td width="40%">
       <img src="/shed.jpg" width="100%"> 
